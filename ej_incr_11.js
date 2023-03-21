@@ -8,6 +8,7 @@ apellidos = prompt("Introduce tus apellidos");
 fechaDeNacimiento = prompt("Introduce tu año de nacimiento")
 cursosDeProgramacionRealizados = prompt("Introduce el número de cursos de programación realizados")
 
+
 cursosDeProgramacionRealizados = cursosDeProgramacionRealizados + 1
 
 if(fechaDeNacimiento <2000){
